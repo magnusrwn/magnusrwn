@@ -1,9 +1,8 @@
 # Hello, I'm Magnus 👋
-I have a year's experience working **full-time as a Backend Engineer at a startup**, and I'm about to begin my first year studying Computer Science at university in Edinburgh.
+I have a year's experience working **full-time as a Backend Engineer at a startup** with *some* fronetned experience also. I'm about to begin my first year studying Computer Science at university in Edinburgh.
 
-
-**Currently working on**: Building building [**this**](https://github.com/magnusrwn/flight_proj)
-
+***
+<ins>**Currently working on**</ins>: Building building [**this**](https://github.com/magnusrwn/flight_proj)
 ***
 ## 👨‍💻 Projects/ Tasks
 | Name | Description | Status | Link |
