@@ -8,7 +8,7 @@ I have a year's experience working **full-time as a Backend Engineer at a startu
 | Name | Description | Status | Link |
 | :--- | :----: | :---: | ---: |
 | Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code*. | In Progress 🚧🏗️ | [Link](https://github.com/magnusrwn/flight_proj)|
-| Black Scholes Pricing Simulator | Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link]('https://github.com/magnusrwn/black_scholes_simulator') |
+| Black Scholes Pricing Simulator | *Old Project* Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
 
 ***
 ## 🥞 The Current Tech Stack
