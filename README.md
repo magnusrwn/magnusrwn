@@ -1,5 +1,5 @@
 # Hello, I'm Magnus 👋 
-<ins>**Currently working on**</ins>: Building building [**this**](https://github.com/magnusrwn/flight_proj)
+<ins>**Currently**</ins>: Building building [**this**](https://github.com/magnusrwn/flight_proj)
 
 ## 👨‍💻 Projects/ Tasks
 | Name | Description | Status | Link |
