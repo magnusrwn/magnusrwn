@@ -9,11 +9,11 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=magnusrwn)
 ***
-## 🥞 Tech Stack
-`Python` • `FastAPI` • `Flask` • `PostgreSQL` • `Tailwind CSS` • `TypeScript` • `React` • `Vite` • `Node.js` • `JavaScript` • `Docker`
+## 🥞 Tech Stack/ Key Tech
+`Python` • `FastAPI` • `Flask` • `PostgreSQL` • `Tailwind CSS` • `TypeScript` • `React` • `Vite` • `Node.js` • `JavaScript` • `Docker` • `AWS`
 
-Other msc skills:
-> pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, basic server admin/ devops
+Other msc tech skills:
+> pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, basic server admin/ devops, duckdb
 
 ***
 I have a year's experience working **full-time as a Backend Engineer at a startup** with *some* fronetned experience also. I'm about to begin my first year studying Computer Science at university in Edinburgh.
