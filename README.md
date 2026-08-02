@@ -13,7 +13,7 @@
 `Python` • `FastAPI` • `Flask` • `PostgreSQL` • `Tailwind CSS` • `TypeScript` • `React` • `Vite` • `Node.js` • `JavaScript` • `Docker` • `AWS`
 
 Other msc tech skills:
-> pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, basic server admin/ devops, duckdb
+> pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, duckdb
 
 ***
 I have a year's experience working **full-time as a Backend Engineer at a startup** with *some* fronetned experience also. I'm about to begin my first year studying Computer Science at university in Edinburgh.
