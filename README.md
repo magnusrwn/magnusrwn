@@ -1,4 +1,4 @@
-# Hello, I'm Magnus 👋 
+# Hello, I'm Magnus.
 <ins>**Currently**</ins>: Open Source Contributions & Leaning Linear Algebra
 
 ## 👨‍💻 Projects
