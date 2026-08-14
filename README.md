@@ -1,5 +1,5 @@
 # Hello, I'm Magnus 👋 
-<ins>**Currently**</ins>: Contributing to Open Source
+<ins>**Currently**</ins>: Open Source Contributions & Leaning Linear Algebra
 
 ## 👨‍💻 Projects
 | Name | Description | Status | Link |
@@ -19,4 +19,4 @@
 `Python` • `FastAPI` • `Flask` • `PostgreSQL` • `Tailwind CSS` • `TypeScript` • `React` • `Vite` • `Node.js` • `JavaScript` • `AWS`
 
 Other msc tech skills:
-> pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, duckdb, Docker
+> pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, duckdb, Docker, Amazon Reporting APIs, testing
