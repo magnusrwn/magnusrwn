@@ -10,7 +10,7 @@
 ## Open Source Contributions
 | Repo Name | Ticket Link | Error Description | Status |
 | :--- | :---: | :---: | ---: |
-| [Rally](https://github.com/elastic/rally) | Ticket [Llink](https://github.com/elastic/rally/issues/2172)| Transfer logic dealt with ChunkedEncodingError too harshly. I amended code to ensure desired/ sensible processes are followed | Awaiting review |
+| [Rally](https://github.com/elastic/rally) | Ticket [Llink](https://github.com/elastic/rally/issues/2172)| Transfer logic dealt with ChunkedEncodingError too harshly. I amended code to ensure desired/ sensible processes are followed | Awaiting review 🕰️ |
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=magnusrwn)
