@@ -5,7 +5,7 @@
 | Name | Description | Status | Link |
 | :--- | :----: | :---: | ---: |
 | Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Building 🏗️ | [Link](https://github.com/magnusrwn/dutoaocs) |
-| Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Finished/ Updating ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
+| Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
 | Black Scholes Pricing Simulator | ***Old Project*** Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
 
 ## Open Source Contributions
