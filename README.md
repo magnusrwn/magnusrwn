@@ -11,7 +11,7 @@
 ## Open Source Contributions
 | Repo Name | Ticket Link | Description | Status |
 | :---: | :---: | :---: | :---: |
-| [Rally](https://github.com/elastic/rally) | [Here](https://github.com/elastic/rally/issues/2172)| Transfer logic dealt with ChunkedEncodingError too harshly. I amended code to ensure desired/ sensible processes are followed | Review 🕰️ |
+| [Rally](https://github.com/elastic/rally) | [Here](https://github.com/elastic/rally/issues/2172)| Transfer logic dealt with ChunkedEncodingError too harshly. I amended code to ensure desired/ sensible processes are followed | Merged 😎 |
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=magnusrwn)
