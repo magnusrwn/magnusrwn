@@ -1,5 +1,5 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Building [Dutoaocs](https://github.com/magnusrwn/dutoaocs) & contributing to open source
+<ins>**Currently**</ins>: Finishing [Dutoaocs](https://github.com/magnusrwn/dutoaocs) & cramming DSA
 
 ## 👨‍💻 Projects
 | Name | Description | Status | Link |
