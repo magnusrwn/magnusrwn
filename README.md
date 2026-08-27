@@ -1,5 +1,6 @@
 # Hello, I'm Magnus.
 <ins>**Currently**</ins>: Finishing [Dutoaocs](https://github.com/magnusrwn/dutoaocs) & cramming DSA
+>Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
 ## 👨‍💻 Projects
 | Name | Description | Status | Link |
