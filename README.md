@@ -1,5 +1,5 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Finishing [Dutoaocs](https://github.com/magnusrwn/dutoaocs) & semi-cramming DSA
+<ins>**Currently**</ins>: Finishing [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning the electricity grid, and how to model it & semi-cramming DSA (when needed for tech-ints)
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
 ## 👨‍💻 Projects
