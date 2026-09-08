@@ -1,11 +1,12 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Finishing [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning the electricity grid, and how to model it & semi-cramming DSA (when needed for tech-ints)
+<ins>**Currently**</ins>: Finishing [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning the electricity grid in [egrid modeling](https://github.com/magnusrwn/egrid_modeling), and how to model it & semi-cramming DSA (when needed for tech-ints)
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
 ## 👨‍💻 Projects
 | Name | Description | Status | Link |
 | :--- | :----: | :---: | ---: |
-| Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Building 🏗️ | [Link](https://github.com/magnusrwn/dutoaocs) |
+| eGrid Modeling | A bin for leaning on how the electricity grid works | Building ⚡️ | [Link]([https://github.com/magnusrwn/dutoaocs](https://github.com/magnusrwn/egrid_modeling)) |
+| Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Testing 🏗️  (with intention to iterate over long-term)| [Link](https://github.com/magnusrwn/dutoaocs) |
 | Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
 | Black Scholes Pricing Simulator | ***Old Project*** Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
 
