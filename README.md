@@ -5,8 +5,8 @@
 ## 👨‍💻 Projects
 | Name | Description | Status | Link |
 | :--- | :----: | :---: | ---: |
-| eGrid Modeling | A bin for leaning on how the electricity grid works | Building ⚡️ | [Link](https://github.com/magnusrwn/egrid_modeling) |
-| Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Testing 🏗️  (with intention to iterate over long-term)| [Link](https://github.com/magnusrwn/dutoaocs) |
+| eGrid Modeling | A bin for leaning on how the electricity grid works | Building/ Learning ⚡️ | [Link](https://github.com/magnusrwn/egrid_modeling) |
+| Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Min-viable. Iterating over long term (with intention to iterate over long-term)| [Link](https://github.com/magnusrwn/dutoaocs) |
 | Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
 | Black Scholes Pricing Simulator | ***Old Project*** Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
 
