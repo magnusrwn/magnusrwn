@@ -1,5 +1,6 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning the electricity grid in [egrid modeling](https://github.com/magnusrwn/egrid_modeling) and how to model it with panda power & semi-cramming DSA (when needed for tech-assessments)
+<ins>**Currently**</ins>: Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning linear algebra, doing one open source commit a week, and semi-cramming DSA
+
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
 ## 👨‍💻 Projects
