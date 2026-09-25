@@ -1,12 +1,11 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning linear algebra, doing one open source commit a week, and semi-cramming DSA
+<ins>**Currently**</ins>: Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning linear algebra, brainstorming next the project and semi-cramming DSA
 
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
 ## 👨‍💻 Projects
 | Name | Description | Status | Link |
 | :--- | :----: | :---: | ---: |
-| eGrid Modeling | A bin for leaning on how the electricity grid works | Building/ Learning ⚡️ | [Link](https://github.com/magnusrwn/egrid_modeling) |
 | Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Maintaining if-and-when ✅ | [Link](https://github.com/magnusrwn/dutoaocs) |
 | Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
 | Black Scholes Pricing Simulator | ***Old Project*** Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
