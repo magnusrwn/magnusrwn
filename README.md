@@ -6,7 +6,9 @@
 ## 👨‍💻 Projects/ repos
 | Name | Description | Status | Link |
 | :--- | :----: | :---: | ---: |
-| Uni-sem-1 | A bin repository keeping all my university work (sems, labs, etc...)| Bin of info -- updated all the time| [Link](https://github.com/magnusrwn/uni-sem-1) |
+| math_bin | A bin repository keeping all my application of independantly learned mathemetics| NA/ Bin of info| [Link](https://github.com/magnusrwn/math_bin) |
+| cpp_algos | A bin repository keeping all my progress of learning dsa in c++| NA/ Bin of info| [Link](https://github.com/magnusrwn/cpp_algos) |
+| uni-sem-1 | A bin repository keeping all my university work (sems, labs, etc...)| NA/ Bin of info| [Link](https://github.com/magnusrwn/uni-sem-1) |
 | Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Maintaining if-and-when ✅ | [Link](https://github.com/magnusrwn/dutoaocs) |
 | Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
 | Black Scholes Pricing Simulator | ***Old Project*** Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
