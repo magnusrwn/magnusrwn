@@ -4,14 +4,14 @@
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
 ## 👨‍💻 Projects/ repos
-| Name | Description | Status | Link |
-| :--- | :----: | :---: | ---: |
-| math_bin | A bin repository keeping all my application of independantly learned mathemetics| NA/ Bin of info| [Link](https://github.com/magnusrwn/math_bin) |
-| cpp_algos | A bin repository keeping all my progress of learning dsa in c++| NA/ Bin of info| [Link](https://github.com/magnusrwn/cpp_algos) |
-| uni-sem-1 | A bin repository keeping all my university work (sems, labs, etc...)| NA/ Bin of info| [Link](https://github.com/magnusrwn/uni-sem-1) |
-| Dutoaocs | Free open-source AI-assisted documentation generation & maintenance | Maintaining if-and-when ✅ | [Link](https://github.com/magnusrwn/dutoaocs) |
-| Flight Prediction Project | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
-| Black Scholes Pricing Simulator | ***Old Project*** Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
+| Name | Type | Description | Status | Link |
+| :--- | :----:| :----: | :---: | ---: |
+| math_bin | Bin | A bin repository keeping all my application of independantly learned mathemetics| NA/ Bin of info| [Link](https://github.com/magnusrwn/math_bin) |
+| cpp_algos | Bin | A bin repository keeping all my progress of learning dsa in c++| NA/ Bin of info| [Link](https://github.com/magnusrwn/cpp_algos) |
+| uni-sem-1 | Bin | A bin repository keeping all my university work (sems, labs, etc...)| NA/ Bin of info| [Link](https://github.com/magnusrwn/uni-sem-1) |
+| Dutoaocs | **Project** | Free open-source AI-assisted documentation generation & maintenance | Maintaining if-and-when ✅ | [Link](https://github.com/magnusrwn/dutoaocs) |
+| Flight Prediction Project | **Project** | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
+| Black Scholes Pricing Simulator | **(*old*) Project**| Calculates and graphs option contract value according to the Black Scholes model | Completed ✅ | [Link](https://github.com/magnusrwn/black_scholes_simulator) |
 
 ## Open Source Contributions
 | Repo Name | Ticket Link | Description | Status |
