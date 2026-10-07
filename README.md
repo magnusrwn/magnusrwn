@@ -6,8 +6,7 @@
 ## 👨‍💻 Projects/ repos
 | Name | Type | Description | Status | Link |
 | :--- | :----:| :----: | :---: | ---: |
-| math_bin | Bin | A bin repository keeping all my application of independantly learned mathemetics| NA/ Bin of info| [Link](https://github.com/magnusrwn/math_bin) |
-| cpp_algos | Bin | A bin repository keeping all my progress of learning dsa in c++| NA/ Bin of info| [Link](https://github.com/magnusrwn/cpp_algos) |
+| Mycon | **Project/ startup** | [product description coming soon...]| Building 🏗️| No Link (Private, for now) |
 | uni-sem-1 | Bin | A bin repository keeping all my university work (sems, labs, etc...)| NA/ Bin of info| [Link](https://github.com/magnusrwn/uni-sem-1) |
 | Dutoaocs | **Project** | Free open-source AI-assisted documentation generation & maintenance | Maintaining if-and-when ✅ | [Link](https://github.com/magnusrwn/dutoaocs) |
 | Flight Prediction Project | **Project** | Full-stack ML project that predicts future flight delays with no AI-generated code* | Completed ✅ | [Link](https://github.com/magnusrwn/flight_proj)|
