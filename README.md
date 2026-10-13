@@ -1,5 +1,5 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs), learning linear algebra, learning c++, and semi-cramming DSA (in C++)
+<ins>**Currently**</ins>: Building Mycon (private repo), Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs) and semi-cramming DSA (in C++)
 
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
 
