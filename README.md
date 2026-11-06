@@ -1,7 +1,6 @@
 # Hello, I'm Magnus.
-<ins>**Currently**</ins>: Building Mycon (private repo), Iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs) and semi-cramming DSA (in C++)
-
->Note: 9.5/10 days where I have no commits, I am committing on LeetCode. See [here](https://leetcode.com/u/magnusrwn/)
+<ins>**Currently**</ins>: Building (CTO) MYCON (private repo, public face soon), studying algorithms in C++, CSAPP and linear algebra by the book -- mocking up relating projects (maths engines), and *very* slowly iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs)
+>Note: 9.5/10 days where I have no commits, I am committing on LeetCode, see [here](https://leetcode.com/u/magnusrwn/), or (mostly) studying maths/algorithms/C++ by book.
 
 ## 👨‍💻 Projects/ repos
 | Name | Type | Description | Status | Link |
@@ -21,7 +20,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=magnusrwn)
 ***
 ## 🥞 Tech Stack/ Key Tech
-`Python` • `FastAPI` • `Flask` • `PostgreSQL` • `Tailwind CSS` • `TypeScript` • `React` • `Vite` • `Node.js` • `JavaScript` • `AWS`
+`Python` • `FastAPI` • `Flask` • `PostgreSQL` • `Tailwind CSS` • `TypeScript` • `React` • `Vite` • `Node.js` • `JavaScript` • `AWS` • `C++`
 
 Other msc tech skills:
 > pandas, scikit-learn, Amazon Selling Partner API, Amazon Advertising API, OAuth 2.0 integration, duckdb, Docker, Amazon Reporting APIs, testing
