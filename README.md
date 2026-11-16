@@ -1,4 +1,7 @@
 # Hello, I'm Magnus.
+
+`NOTE: I'm currently finishing all my semesters coursework. There will be a dip in commits, then hopefully a post-coursework boom`
+
 <ins>**Currently**</ins>: Building (CTO) MYCON (private repo, public face soon), studying algorithms in C++, CSAPP and linear algebra by the book -- mocking up relating projects (maths engines), and *very* slowly iterating [Dutoaocs](https://github.com/magnusrwn/dutoaocs)
 >Note: 9.5/10 days where I have no commits, I am committing on LeetCode, see [here](https://leetcode.com/u/magnusrwn/), or (mostly) studying maths/algorithms/C++ by book.
 
